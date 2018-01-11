@@ -1,4 +1,3 @@
-import re
 import string
 
 input_file = open("input.txt")
